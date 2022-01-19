@@ -1,6 +1,6 @@
 # Projeto Semana Spring React SDS 6.0
 
-Projeto desenvolvido na semana Spring React 6 para a [DevSuperior](https://devsuperior.com.br) do Nélio Alves 
+Projeto desenvolvido na semana Spring React 6 para a [DevSuperior](https://devsuperior.com.br) do [Nelio Alves](https://github.com/acenelio)
 
 
 Página do evento: https://github.com/devsuperior/sds-dsmovie
