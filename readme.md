@@ -7,17 +7,27 @@ Página do evento: https://github.com/devsuperior/sds-dsmovie
 ## Conteúdo
 
 - **Episódio 1 - Spring e React no mercado**: 
-    - Criar projetos back-end e front-end
+    - Criar projetos backend e frontend 
+        - ambiente
+        - design no figma
+        - "limpar" o projeto ReactJS
     - Salvar os projeto no Github em monorepo
-    - Montar o visual estático do front-end
+    - Montar o visual estático do frontend
+        - adicionar Bootstrap e CSS
+        - Navbar
+        - Rotas
+        - Tela de formulário
+        - Pagination
+        - Componente MovieCard
+        - Navegação dos botões
     
 - **Episódio 2 - Aprofundando na Prática**: 
     - Implementar o back-end
     - Modelo de domínio
-    - Acesso a banco de dados
+    - Acesso a banco de dados (entidades, jpa e o seed do banco)
     - Estruturar o back end no padrão camadas
     - Criar endpoints da API REST
-    - Implantação na nuvem
+    - Implantação na nuvem (Heroku e Netlify)
 
 - **Episódio 3 - O Mapa da Carreira**: 
     - Integrar back-end e front-end
